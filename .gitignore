@@ -1,0 +1,4 @@
+.idea
+resources/output.csv
+resources/test_images
+.DS_Store

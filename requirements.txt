@@ -1,0 +1,7 @@
+pandas
+requests
+tqdm
+numpy
+scikit-learn==0.20.4
+pyheif==0.5.0
+Pillow==5.2.0
